@@ -54,5 +54,5 @@ The goal of this challenge is to build the best machine learning model that accu
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/yourusername/amex-campus-challenge-2024.git
+   git clone https://github.com/Rishii-jain/amex-campus-challenge-2024.git
    cd amex-campus-challenge-2024
